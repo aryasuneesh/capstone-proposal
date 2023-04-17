@@ -7,6 +7,8 @@ This project implements a recommendation system for popular offers based on cust
 
 ## Installation
 
+Unzip `data.zip` to a folder called `data` in the same working directory as the notebook.
+
 The code is implemented in Python, and uses the following libraries:
 
 - Pandas for data manipulation
